@@ -21,6 +21,36 @@ This problem is known as:
 
 # Solution: 
 
+#### IncidentLens
+
+System automatically:
+
+Collect:
+- Metrics
+- Logs
+- Deployments
+- Infra Events
+
+Correlate.
+
+Generate:
+Incident Timeline
+
+Example output:
+```
+10:00 Deploy Started
+↓
+10:02 API latency ↑
+↓
+10:03 CPU spike
+↓
+10:04 DB timeout
+↓
+10:06 Pod restarted
+↓
+10:08 Recovery
+```
+
 # Architecture
 
 # Metrics
