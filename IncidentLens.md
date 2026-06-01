@@ -21,7 +21,7 @@ This problem is known as:
 
 # Solution: 
 
-#### IncidentLens
+## IncidentLens
 
 System automatically:
 
