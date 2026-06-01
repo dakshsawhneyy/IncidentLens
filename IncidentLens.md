@@ -70,4 +70,51 @@ Demo Application
 
 # Metrics
 
-# Future
+
+
+# Upcoming Phases
+
+Phase 2 → IncidentIQ
+
+Add:
+root cause suggestions
+anomaly detection
+reliability score
+
+Question:
+WHY did incident happen?
+
+
+Phase 3 → ReliabilityHub
+
+Add:
+SLO
+deployments
+uptime
+team reliability
+
+Question:
+How healthy are systems?
+
+
+Phase 4 → Platform Engineering Integration
+
+Add:
+IDP
+self-service deploy
+deployment guardrails
+approval workflow
+
+Question:
+How do developers deploy safely?
+
+
+Phase 5 → Automation
+
+Add:
+auto rollback
+restart automation
+remediation workflows
+
+Question:
+Can system recover itself?
