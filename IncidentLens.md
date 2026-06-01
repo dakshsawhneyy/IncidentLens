@@ -52,6 +52,21 @@ Example output:
 ```
 
 # Architecture
+```
+Users
+  ↓
+IncidentLens Dashboard
+  ↓
+Timeline Engine
+  ↓
+Metrics +  Logs   +   Events
+
+↓           ↓           ↓
+
+Prometheus  Loki      K8s Events
+  ↓
+Demo Application
+```
 
 # Metrics
 
